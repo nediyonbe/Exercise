@@ -2,7 +2,7 @@ def average(array):
     # your code goes here
     from statistics import mean
 
-    s = set(array) #the input is already converted to a list of int's. 
+    s = set(array) #the input is already converted to a list of int's.
     #All left to do is to convert that into a set which removes duplicates if any
     return mean(s)
 
@@ -74,4 +74,3 @@ if __name__ == '__main__':
 # Sample Output
 
 # 169.375
-
