@@ -6,9 +6,6 @@ t = tuple(integer_list)
 print(hash(t))
 
 
-
-
-
 # Task
 # Given an integer, , and  space-separated integers as input, create a tuple, , of those  integers. Then compute and print the result of .
 
